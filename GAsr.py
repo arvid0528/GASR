@@ -10,4 +10,4 @@ with sr.Microphone() as source:
     except:
         print("Sorry, could not recognize what you said")   
     
-    
+# DETTA ÄR EN KOMMENTAR SKRIVEN AV OSCAR BITCH    
